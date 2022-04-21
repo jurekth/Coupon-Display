@@ -1,0 +1,22 @@
+{
+    "items": [
+      {
+        "id": "60848",
+        "name": "2 Chicken Burger",
+        "description": "2 Chicken Nugget Burger",
+        "price": "2.49"
+      },
+      {
+        "id": "60872",
+        "name": "2 Chicken Burger",
+        "description": "2 Chicken Nugget Burger",
+        "price": "1.99"
+      },
+      {
+        "id": "44185",
+        "name": "King Sundae",
+        "description": "King Sundae",
+        "price": "0.99"
+      }      
+    ]
+  }
